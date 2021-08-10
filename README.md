@@ -26,6 +26,7 @@ npm run build
 
 ## Credits
 
-UI Design [https://www.instagram.com/veeuix/](veeuix)
-Code by [https://www.instagram.com/fataelislami/](fataelislami)
+UI Design by[veeuix](https://www.instagram.com/veeuix/)
+
+Code by [fataelislami](https://www.instagram.com/fataelislami/)
 
