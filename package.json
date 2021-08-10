@@ -15,10 +15,10 @@
     "tailwindcss": "^2.2.7"
   },
   "devDependencies": {
-    "snowpack": "^3.8.3",
-    "postcss-cli": "^8.3.1",
-    "postcss": "^8.3.6",
+    "@snowpack/plugin-build-script": "^2.1.0",
     "autoprefixer": "^10.3.1",
-    "@snowpack/plugin-build-script": "^2.1.0"
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1",
+    "snowpack": "^3.8.3"
   }
 }
