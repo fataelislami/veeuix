@@ -1,0 +1,24 @@
+{
+  "name": "veeuix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "clean": "rm dist/bundle.js",
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.3",
+    "postcss-cli": "^8.3.1",
+    "postcss": "^8.3.6",
+    "autoprefixer": "^10.3.1",
+    "@snowpack/plugin-build-script": "^2.1.0"
+  }
+}
